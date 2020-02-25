@@ -1,5 +1,5 @@
 # Udacity Data Analytics Nanodegree
 
-Project 1: Welcome to the Nanodegree Program - Explore Weather Trends
+Project 1: Explore Weather Trends (Welcome to the Nanodegree Program)
 
-Project 2: Introduction to Practical Statistics - Investigate a Dataset
+Project 2: Investigate a Dataset (Introduction to Practical Statistics)
